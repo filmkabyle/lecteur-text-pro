@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "homepage": "https://filmkabyle.github.io/lecteur-text-pro",
+  "homepage": "https://filmkabyle.github.io/lecteur-text-pro/",
 },
   "dependencies": {
     "lucide-react": "^0.561.0",
