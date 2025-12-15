@@ -1,0 +1,5 @@
+{
+  "name": "Natiq AI - Professional TTS",
+  "description": "A professional Text-to-Speech application using Gemini 2.5 Flash TTS capabilities with support for multiple high-quality voices.",
+  "requestFramePermissions": []
+}
